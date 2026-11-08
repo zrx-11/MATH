@@ -1,0 +1,186 @@
+
+
+===== [PDF p1383] =====
+第VII部分“数学的影响
+VII1 数学与化学
+
+Jacek Klinowski and
+Alan 工. Mackay
+
+1. 引言
+
+自从阿基米德[VI.3] 用实验方法确定合金中金和银的比例以来 (此事是由 Vit-
+ruvius 转述的, Vitruvius 就是 Marcus Vitruvius Pollio , 生于约公元前 80-70 年, 卒
+于约公元前 15 年, 罗马作家), 化学问题的解决就用到了数学. Carl Schorlemer 在
+研究链烷烃 (paraffinic series of hydrocarbons, 当时由于在 Pennsylvania 发现了石
+油, 这种化合物变得很重要) 时发现了随着逐渐增加碳原子, 化合物的性质就会变
+化. 他的密友, 当时住在曼彻斯特的恩格斯受到这件事的启发, 把“由量到质” 的转
+化引入了他的哲学观点, 然后就变成辩证唯物主义的一条教义. 凯菜[VIL.46] 也从类
+似的化学的观察在 1857 年发展了“有根的树” (rooted tree) 的理论, 于是分支的分
+子枚举的数学成了图论[II.34] 的第一个清晰的声音. 后来, 波利亚 (George Pdlya)
+发展了他的基本的枚举定理, 促进了这种分子计算进一步的进展. 更近一些, DNA
+的力学和运动学之类的化学问题对于纽结理论[IIL.44] 有显著的影响.
+
+然而, 化学成为一门定量的现代科学还不到 150 年. 在这以前, 这只是一个遥
+远的梦, 当牛顿[VI.14]1700 年左右从事发展微积分的时候, 他也花了很多时间研究
+炼金术. 他是这样来解释为什么已经确立了“行星、替星、月亮和海洋的运动”为
+什么不能从同样的命题来决定世界的其他构造:
+
+我怀疑它们都依赖于某种力, 使物体的粒子由于某种迄今未知的原因，或者被
+
+推到了一起, 凝聚成一定的正规的图形, 或者互相排斥而远去. 因为这种力是
+
+未知的, 哲学家们在探索大自然方面只能是徒劳无功. 但是我希望, 已经确立
+
+的原理会对这个或者更好的哲学方法投下某些光芒.”
+
+直到大约两百年前, 才逐渐了解了这种力的本性, 说真的, 决定化学联结的粒
+子 一一 电子是在 1897 年才被发现的, 这就涉及为什么思想的流向主要是从数学
+理论到化学应用.
+
+@D在恩格斯的著作例如《自然辩证法》中提到过他.中文习惯地译为“肖莱马”, 德国化学家, 1834-1892，
+既是化学家, 也是“优秀的共产主义者"(恩格斯语). 一一 中译本注
+
+
+===== [PDF p1449] =====
+VIIL5 算法设计的数学                                                                 “311
+
+ 
+
+近五十年来, 我们已经开始认识到, 大规模的工程系统时常能够用类似的语言
+得到最好的理解. 这样, 用每一个开车的人选择对他最方便的路线这种对交通流的
+微观描述和用一个函数的最小化这种宏观的行为来描述也可以是相容的，而控制
+数据包在因特网中传送的简单的局部的规则恰好相应于在整个网络上总体效能的
+最大化.
+
+一个使人深思的区别在于: 管控物理系统的微观规则是固定的, 而在运输和通
+讯网络中, 我们有可能选择这些规则, 以便得到我们想要的宏观结果.
+
+进一步阅读的文献
+Beckman M，McGuire C B, and Winsten C B. 1956.， .Studies 科 态e 瓦conomics of Trans-
+portation. Cowles Commision Monograph. New Haven,， CT: Yale University Press.
+
+Braess D. 1968. Uber ein Paradoxen aus der Verkehrsplanung. Umternehrmenjorschung，
+12: 258-268.
+
+Cohen 本 也. 1988，The counterintuitive in conflict and cooperation. 47nericamn Scientist
+76: 576-584.
+
+Department of Transport，2004. Feasibility study of road pricing in the UK. Available form
+www.dft.gov.uk.
+
+Jacobson V. 1988. Congestion avoidance and control，Compauter Comymmnaaicatituom 忌eviet，
+18(4): 314-329.
+
+KellyF P. 1991. Network routing. Phizlosopjhical Transactiomnm of 轨e Royal Socie怒 of Zondom
+A, 337: 343-367.
+
+一一. 2001. Mathematical modeling of the Internet. m Mathematics Unlimited 一 2001 and
+Beyond, edited by B. Engquist and W. Schmid, pp. 685-702. Berlin: Springer.
+
+Low $S H, Paganini, and Doyle J C. 2002. Internet congestion control，7BPB Control System
+Maogazine, 22: 18-43.
+
+Wardrop J G. 1952，Some theoretical aspects of road tra人fc research， Proceedings oj 太he
+TJmnstitute of Ciuil 已ngimneers，1: 325-378.
+
+VII.5 算法设计的数学
+Jon Kleinberg
+1. 算法设计的目标
+
+当计算机科学在 1960 和 1970 年代作为一门学科在大学本科开设时, 在一些
+早已确立了地位的更有地位的学科的业者中引起了一阵困惑. 说真的, 开始的时候
+
+
+===== [PDF p1473] =====
+VIL7 数学与密码                                                                      335 .
+
+ 
+
+多年来, 码的理论中充满了各种各样的结果, 其中有一些给出码的较好的构造
+方法和较快的算法, 另外一些则给出了码的性能的良好理论的上限. 这个理论中使
+用了极为广泛的数学工具, 其中有许多比本文所讲的更为高深, 其中最值得注意的
+是代数几何和图论, 它们被用来构造很好的码, 还用到正交多项式理论来证明码中
+的参数的界限, 例如编码率和可靠性的界限. (Pless, Hufftman,， 1998) 一书对这里面
+广泛的文献给出了其绝大部分的要点.
+
+进一步阅读的文献
+Forney Jr, G D. 1966. Comncatenated Codes. Cambridge, MA: MIT Press.
+
+再amming 及 W. 1950，Error detecting and error correcting codes.， Bell System Technizcal
+Joural 29: 147-160.
+
+Peterson W W. 1960. Encoding and error-correction procedures for Bose-Chaudhuri codes.
+JPPP Transactions om 有njformatiom Theory 459-470.
+
+Pless V $, and Huffman W C, eds. 1998. andbook of Coding Theory two volumes，Ams-
+terdam: North-Holland.
+
+Reed I S$, and Solomon G. 1960. Polynomial codes over certain finite fields，ST4M Journal
+of 4pplied Mathematics, 8: 300-304.
+
+Shannon C E. 1948， A mathematical theory of communication. Bell System Technical
+Journal, 27: 379-423,，623-656.
+
+VJIIL7 数学与密码
+
+Clifford Cocks
+1. 引言和历史
+
+密码学就是隐藏通讯的含义和内容的科学, 其目的是使得只能看见加密状态下
+的信件的对方无法了解所看见的东西的意义, 无法从中得出有用的信息. 另一方面，
+希望能收到信件的收信人能够解密其真实含义. 历史上, 密码学在绝大部分时间里
+是只由极少数人来认真实施的艺术 一一 如政府官员的军事和外交通讯就必须加密
+一一 对于他们, 信息的未经认可的披露有极大的损害, 所以值得大加花费、冒极大
+的不便来为信件加密. 近年来, 情况已经有了改变, 信息革命的结果之一就是需要
+为所有有需要的人提供及时、安全的通讯. 有幸的是, 数学提供了理论和算法的发
+展来适应这种需求, 还提供了例如“数字签名”(digital signature) 这样的新的可能
+性 (这一点将在下面讨论).
+
+
+===== [PDF p1519] =====
+VII10 数理统计学                                                                     :381 .
+
+ 
+
+Sharpe W. 1964.， Capital asset prices: a theory of market equilibrium under conditions of
+Tisk. .Jourmal of Fimnamce，19:425-442.
+
+VII.10 数理统计学
+
+Persi Diaconis
+
+1. 引言
+
+假设您想度量什么东西, 例如您的身长, 或者飞机的速度, 您会作多次量度, 得
+到一串数 ri, zz, … ,zn, 您会想把它们合并成一个最后的估计. 做这件事的一个显
+然的方法是取它们的样本平均值(sample meanj(zli + za + … + zn) /m. 然而, 现代
+的统计学家还会用许多别的估计量 (estimator), 例如中位数和修剪均值(就是去掉
+最大的 10%%, 去掉最小的 10%, 再取其余值的平均值, 不妨称为“抬头去尾平均值>).
+数理统计学帮助我们决定一种估计量在什么时候好于其他的估计量. 例如说, 直观
+上已经清楚把数据中抛弃掉随便一半而取其余数据的平均值是愚蠢的，但是建立
+起一个框架来清楚地说明这一点却是一件严肃的事. 这样做有一个好处, 那就是发
+现平均值不如不直观的“收罕估计量(shrinkage) 那么好, 即令对于来自概率分布
+[IE.71]一一例如自然得如同一条钟形曲线的概率分布, 即正态分布 [UL.7185]一一的
+数据也是这样.
+
+为了对于为什么平均值并不总是给出最有用的估计有一个概念, 考虑下面的情
+况. 有 100 个硬币而想要估计它们偏心的程度, 也就是说, 想要估计 100 个数, 其第
+! 个记作 9, 就是抛掷第 ”个硬币时正面向上的概率. 假设把每一个硬币都抛括 5
+次, 并且记录下其中正面向上的次数作为 gu, 您对于序列 (9,…… ,bioo) 怎样估计?
+如果用平均值来估计, 则 % 将是第 ”个硬币时正面向上的次数除以 5, 然而, 如果
+真的这样做, 大概会得到某个很不正常的结果, 例如, 假设所有这些硬币都是不偏
+心的, 则任意一个硬币 5 次都是正面向上的概率是 1/32, 所以 (0,,…… ,bioo) 的平
+均值为 1/32 < 3/100, 而您可能猜想大约有 3 个硬币偏心为 1, 所以, 您会猜想, 每
+抛掷这些硬币 500 次, 它们单独每一次都会正面向上.
+
+为了对付这样的明显的问题, 发展了许多别的估计方法. 然而必须仔细了: 如
+果第;个硬币 5 次正面向上, 很可能 % 就是等于 1, 有什么理由使我们不怀疑不同
+的方法不会让我们离真理更远呢?
+
+下面是第二个例子, 它是关于棒球的, 取自 Bradley Efron 的工作, 而这一次是
+来自实际生活的例子".
+
+@ 棒球是美国非常流行的体育活动,但是我国的读者可能不太熟悉, 因此下面根据下一个脚注的引文
+重写了这一段, 原文这一段原作者也是根据该文写的.一一 中译本注
+

@@ -1,0 +1,185 @@
+
+
+===== [PDF p156] =====
+第开部分“现代数学的起源
+
+II.1 从数到数系
+
+Fernando Q. Gouvea
+
+自从人们会书写, 就一直在记数字， 在每一个发展了一种记录信息方法的文
+明里，都可以找到一种记录数字的方法，有些学者还认为,是先有了记录数字的
+方法
+
+有一点很清楚, 数字首先是作为形容词出现的, 用来确定某一种东西有几个或
+者有多少. 比方说, 人们谈起例如有三个杏子比谈起数字 3 要早很多. 但是, 一旦
+“三性”被摆到桌面上, 使得这个形容词同样可以用来表示三条鱼、三匹马, 一旦发
+展了一个书面记号“3”用于这三种情况, 就有了 3 作为一个独立的实体出现的条
+件. 一旦如此, 就是在做数学了.
+
+每当引进一种新类型的数时，这个过程就会重复出现，首先是应用这个数，
+然后就用符号表示它， 最后就把它自身接受下来作为类似实体的系统里的
+一员.
+
+1. 古代数学里的数
+
+我们所知道的最早的数学文献可以追溯到古代中东的埃及和美索不达米亚"
+文明. 在这两个文化里, 都有一个专门从事书记工作的人的阶层. 书记员负责保存
+记录, 这项工作时常要求他们会算术和解决简单的数学问题. 从这些文化里得到的
+数学文献绝大部分似乎是为了作青年书记员教学所用, 其中许多都是以问题集形式
+出现的, 而且附有答案和简单的解法.[ 美索不达米亚的这些文献是刻在一块泥板
+上的], 有一块泥板刻的是 25 个关于掘壕沟的题目, 另一块上刻有 12 个需要用一次
+方程求解的题目, 第三块刻的是关于正方形及其边的题目.
+
+数字既是作为计数工具之用, 也是作为量度工具之用, 所以对于分数的需要必
+定很早就出现了. 把分数写下来是很复杂的事, 而用它们来做计算更是困难的事情.
+所以,“破裂的数”的问题, 必定是第一个真正具有挑战性的数学问题. 人们是怎样
+
+@@美索不达米亚是 mesopotamia 的音译. 这个词是由两个希腊词构成的. 字首 meso- 意思是“之间”，
+字尾 -potamia 意思是“河流”. 所以这个名词的意译就是“两河流域"， 两河就是底格里斯河与幼发拉底河，
+“两河流域”就是现在伊拉克及其附近的广阔地区. 古代先民在这里建立过许多王朝，巴比伦只是其中之一，
+也是最广为人知的一个. 一一 中译本注
+
+
+===== [PDF p184] =====
+IIL.3 ”抽象代数的发展                                                                   “143 ，
+
+ 
+
+10. 展望
+
+这个问题最终还是解决了, 但是完全不是按其自己的提法来解决的. 有两个发
+展把数学推动得远远超过了庞加莱的简单的二分法. 第一个是: 从 1899 年开始, 希
+尔伯特[VI.63] 按照公理化的途径对几何学进行了广泛的改写, 他的这项工作使得某
+些意大利数学家的早期思想黯然失色, 开辟了许多公理化研究的道路. 希尔伯特的
+工作极其出色地获得了一个思想: 如果说数学是坚固可靠的, 那么来自它的推理的
+本质是坚固可靠的, 这引导到数理逻辑的深刻研究. 第二个是: 爱因斯坦在 1915 年
+提出了广义相对论, 它在很大程度上是引力的几何理论. 对于数学的信念被恢复了，
+对于几何学的感觉大为扩大了, 对于几何学和空间的关系的洞察也复杂多了. 爱因
+斯坦充分地应用了关于几何学的现代观念, 如果没有黎曼的工作, 爱因斯坦的成就
+是不可思议的. 他把引力描述为 4 维时空流形的一种曲率 (见广义相对论和爱因斯
+坦方程[IV.13]), 他的工作引导到关于宇宙的大尺度结构以及宇宙的最终命运的新
+的思考方式, 引导到至今仍未回答的问题.
+
+进一步阅读的文献
+Bonola R. 1955. Bistory of Non-Euclidean Geometry. translated by Carslaw 了 S and with
+
+a preface by Enriques 下. New York: Dover.
+
+Euclid. 1956， The Thirteen 已ooks of Buclid's Elements，2nd edn. New York: Dover.
+
+Gray J J. 1989. ideas of Space: Euclidean amd Nomn-Euclidean Geometry and Relatiuistic，
+2nd edn. Oxford: Oxford University Press.
+
+Gray JJ. 2004.， Janos Bolyai，Non-Euclidean Geometry and 妇e Nature oj Space， Cam-
+bridge, MA: Burndy Library.
+
+Hilbert D. 1899，Gruwndlagen der Ceometrie (many subsequent editions). Tenth edn., 1971，
+translated by Unger 工. Foundations of Geometry， Chicago, Il: Open Conurt.
+
+Poincare 百. 1891.， Les gkometrie non-Euclidienne， Reuue GeEneErales des Sciences Pures et
+
+4ppliguEes,， 2: 769-74， Reprinted，1952. in Science and 瓦ypothesis，35-50， New York:
+Dover.
+
+一. 1902. Lexpkrience et le g6omgktrie， In Za Science et ! ypo妇hese, 95-110，Reprinted，
+1952, in Science and Fuypothesis, 99: 72-88. New York: Dover.
+
+II.3 抽象代数的发展
+Karen Hunger Parshall
+1. 引言
+
+代数是什么? 对于第一次接触代数的中学生来说, 代数是 zy ab 之类字母构
+
+
+===== [PDF p201] =====
+. 160 .                                                           第 II 部分 “现代数学的起源
+
+ 
+
+istory of the Origin of 4bstract Group Theory Tanslated by Shenitzer A. Cambridge
+MA: The MIT Press.
+
+IIL4 算 法
+Jean-Luc Chabert
+1. 什么是算法
+对于“算法”一词给以精确的定义不是一件容易事 有一些意义相近的同义
+语, 就是一些其他的名词, 它们 (有时) 会给出差不多同样的东西, 例如“法则”“技
+巧”“程序" 还有“方法”等等都是这种同义语. 也可以给出一些例子, 如长乘法, 就
+是小学生学的把两个正整数相乘的竖式乘法. 然而, 虽然非形式的解释和选得很恰
+当的例子对于什么是算法给出了很好的感觉, 但算法一词中所深藏的思想却经历了
+一个很长的演化历程, 直得到 20 世纪才得到了令人满意的形式定义, 而关于算法
+的观念, 直到如今还在演进. 本文中, 我们试图对这个发展作一些解释, 来弄清在当
+代这个名词的意义
+
+1.1 算盘家和算法家
+
+回到关于乘法的例子, 有一点是显然的: 怎样把两个数相乘? 表示这些数的方
+法极大地影响了乘法的具体作法. 为了弄明白这点, 请试着把两个罗马数字 CXLVII
+和 XXIX 相乘, 但不要先把它们译成等价的十进数字 147 和 29. 这件事既难弄明
+白, 明白了以后进行计算也极其花时间, 而这就可以解释何以留存至今的罗马帝国
+关于乘法的材料极为零散. 记数制度可以是“累加的”, 如罗马记数法: [C 表示 100，
+X 表示 10,工 表示 50, 但是 X 放在 工 左方表示要从 工 中减去 X, 所以就是 40, V
+表示 5, I表示 1, 两个工放在 V 的右方, 表示要把它们加到 V 上, 所以是 7. 把所
+有以上的解释“累加”起来, 就是罗马数学的 147]. 记数制度也可以是进位的, 如我
+们今天所用的那样. 如果是进位的, 可以使用一个或多个基底 一一 例如苏末人@?就
+既使用 10, 又使用 60 为基底.
+
+在很长的时期中, 进行计算可以使用一种计算工具“abacus”，[这个字通常译
+为算盘, 因为中国使用的算盘也属于这一类, 其实它的历史源流很长, 包括了许多
+不同民族使用的计算工具], 最初它就是在沙地上画出的线条, 然后把小石子放在这
+些线条上进行计算. [实际上, abacus 字源是拉丁文, 意为沙盘]. (同样, 计算这个词，
+来自拉丁文的 calculus, 原意就是小石子). 后来就有了计算版, [它是一些民族使用
+的计算工具, 是在木板上刻了横的或竖的沟槽], 把标记物 (例如小石子) 放在槽里
+
+GO就是从数到数系[11.] 里讲到的美索不达米亚的古老民族. 一一 中译本注
+
+
+===== [PDF p236] =====
+II.6 证明的概念的发展                                                                -195 .
+
+一阵活动, 从有些地方传来了相当大的喝彩, 但是鲁宾进的方法从没有被广泛接受
+为分析的管用的基础.
+进一步阅读的文献
+
+Bottazini U. 1990. Geometrical rigor and“modern analysis”: an introduction to Cauchy'"s
+Cours d'Analise. In Cauchy (1821). Bologna: Editrice CLUB.
+
+Cauchy A 工. 1821.，Cours d'4mnalyse de 1Bcole Royale Polytechnigue: Premiere Partie一
+4malyse 4lgEbrigue. Paris: LImprimerie Royale (Reprinted, 1990, by Editrice CLUB，
+Bolognay).
+
+Epple M. 2003. The end of the Science of Quantity: foundations of analysis，1860-1910.
+In 4 灰story of 4malysis, edited by Jahnke H N,，291-323， Providence，RI: American
+Mathematical Society-.
+
+Fraser C. 1987. Joseph Louis Lagrange's algebraic vision of the calculus， 本etoria Mathe-
+7mzatica，14:38-53.
+
+Jahnke H N,，ed，2003. 4 严story of 4malysis，、Providence，RI: American Mathematical
+Society/London Mathematical Society.
+
+Riemann GEF B. 1854. Ueber die Darstellbarkeit einer Funktion durch eine trigonometrische
+Reiche. Komzglichen Cesellschaft der Vissenschaften zu GOtingen 13:87-131. Repub-
+lished in Riemann's collected works (1990): Gesamelte Mathematische Jerke und Tis-
+se7lschaftliche Nachiass wd Vachtrage，edited by R. Narasimhan ，3rd edn，259-297.
+Berlin: Springer.
+
+Weierstrass 开. 1988.， Einleitung 说 die Theorie der 4malytische Fumktionen: Vorlesung
+Beriin 1878, edited by Ullrich P. Braunschweig: Vieveg/DMV.
+
+II.6 证明的概念的发展
+
+Leo Corry
+
+1. 引言和初步的考虑
+
+在许多方面, 证明的概念的发展和数学整体的发展是共存的. 回顾过去, 人们
+可能首先以为数学是关于数、量、图形的科学知识的总体, 这些知识是由证明来论
+证, 而不是由实验和归纳推断来论证的. 然而, 这样的刻画不是没有问题的. 至少
+有一点, 这样刻画立刻就舍奔了人类文明史的重要篇章,而那些篇章比起任意其他
+的智力活动, 更自然地是与数学相关的. 例如, 美索不达米亚文明和埃及文明都发
+展了很精细的知识的总体, 把它们描述成属于算术和几何学应该是最自然的了, 但
+是, 在其中找不到任何接近于后来数学中一般使用的那种证明的思想. 在几千块用
+槐形文字刻在泥板上的数学方法里, 如果说有什么论证的话, 那也是归纳的或者基
+

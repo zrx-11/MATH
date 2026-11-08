@@ -1,0 +1,199 @@
+
+
+===== [PDF p1584] =====
+第VIII部分 “卷末的话: 一些看法
+
+VIIIL1 解题的艺术
+
+A. Gardiner
+哪里有问题, 那里就有生活.
+Zinoviev (1980)
+“题”或“问题"英文是“problem”, 这个字在英文里有一点负面的言外之意，
+就是有一种不受欢迎的无法释怀的紧张. 所以, Zinoviev 的这一段警语是很重要的:
+问题是生活的特征, 当然也是数学的特征. 好的问题能把心智集中起来: 它们挑战
+也使您刁丧; 它们培育雄心, 也培育出谦逊; 它们暴露出我们的知识的界限, 也把更
+有力的思想的潜在源泉显露出来. 与此相对照,“解”字暗示着这种紧张的释放或
+缓解. 所以, 把这两个字放在一起成为“解题* 就可能使得天真的人以为会有某种
+“秘籍”或者程序, 像做按摩似地使得这种不受欢迎的紧张得到舒缓. 这是不可能的，
+不会有这样的秘籍.
+为什么我们不讲真话? 没有任何人对于这样的程序 .……: 能起作用, 有哪怕是
+最模糊的概念, 而把它叫做“程序"可能就已经在做一个危险的假设.
+Gian-Carlo Rota, 见 (Kac et al.,， 1986)
+“问题”就是一种人们想要去懂得它、解释它、解决它的东西. 人们开始时想把
+它归类为某种比较熟悉的“题型", 但是它总是溜过了这个企图. 遇到这种“问题”
+的经验总是使人不安的: 可能最终证明人们对它比原来设想的更加熟悉, 但是那个
+将来的解决者, 开始时是被抛弃在一块既没有指路牌也没有明显车入的地方. 有些
+人 (例如波利亚及其新近的追随者) 曾经试图设计出一种万能的“解题元路线图”.
+但是那种几代研究生都很熟悉的痛苦地沉溺于问题之中的经历是没有轻松的替代
+物的.
+那些宏大的一般原理可能有助于人们了解这种经验的意义, 但是大概不会有
+多大的具体帮助. 例如, 我们可以看一下备卡儿[VIL.11] 在《方法论》(Discourses om
+Method) 一书里提出的四条一般原理:
+第一是切匆将我尚未清楚知道其为真的东西视为真理.第二是把正在考察的
+困难分解为尽可能多的充分求解所必须的部分.第三是依照如下的次序进行
+思考，就是从最简单最容易之处开始 ……… 终能一步一步地上升到更加复杂
+
+
+===== [PDF p1602] =====
+. 464 .                                   第 VIII 部分 “卷末的话: 一些看法
+
+ 
+
+Springer.
+
+Resnick B. 1994， Some thoughts on writing for Putnam. In Mathematical Thinking amzd
+Problem Soluing, edited by A. 了. Schoenfeld. Mahwah,， NJ: Lawrence Erlbaum.
+
+Ringel G. 1974. Map Color Theorem. New York: Springer.
+
+Roberts J. 1977. PElementary Number Theory: 4 Problem Oriented 4pproach、 Cambridge，
+MA: MIT Press.
+
+Ulam S. 1991.，M4duentaures of a Mathematician。 Berkeley，CA: University of California,
+Press.
+
+Yaglom A M, and Yaglom I M. 1987. Challenging Mathematical Problems With Elementary
+Solutiomns, two volumes. New York: Dover.
+
+Zeitz P. 1999. The 4rt and Craft of Problem Soluizng. New York: John Wiley.
+
+Zinoviev A A. 1980. The Radiant Future. New York: Random House.
+
+VIIIL2 您会问“数学是为了什么”
+
+Michael Harris
+
+在我看来, 他们对于我们的宗教的意见还不够格, 如果他们觉得宗教需要哲学
+保护的话.
+
+一一Lorenzo Valla，PDialogue om ee 玫记
+
+1. 一个形而上学的责任
+
+韦伊[VI.93]在 1978 年在赫尔辛基举行的国际数学家大会上用下面的话来结
+束自己的题为“数学史: 为什么做和怎样做? ”(Eistory of Mathematics: Thy and
+Fow?) 的讲演:
+
+这样, 我原来的问题“为什么要研究数学史? "(Why Mathematical History?)
+最后就归结成为“为什么要研究数学?”(Why Mathematics?)
+我有幸并不感觉到我是被招来回答这个问题的.
+一一Proceedings of the ICM, Helsinki，1978
+(pp.227-236, 引自 p.236)
+
+我也听到了这个讲演以及随之而来的掌声, 还想像得到那时的场景. 这个问题
+不那么容易消逝, 例如在 1991 年美国数学会 (AMS) 被美国国会“科学, 空间和技
+术委员会”招去作证回答一个非常类似的问题:“数学科学的主要目标是什么?”韦
+伊很了解他的听众, 而由十二位数学家组成的委员会在回答负责研究预算的政府机
+构时也很了解自己的听众, 他们说:
+
+数学科学的最重要的长期目标是: 为科学和技术提供基本的工具, 改进数学教
+
+
+===== [PDF p1643] =====
+VIIL5 “数学: 一门实验科学                                                            505
+
+ 
+
+Lave J. 1988，Cognbition 识 Practice: Mind，Mathematics amd Culture 训 Eueryday Life.
+Cambridge: Cambridge University Press.
+
+Lave J, and Wenger 也. 1991. Situated Learning: Legitirmate Peripheral Partipation， Cam-
+bridge: Cambridge University Press.
+
+Netz 及. 2002. Counter culture: towards a history of Greek numeracy. istory of Science)
+40: 321-52.
+
+Nunes T,，Dias A,， and Carraher D. 1993.， Street Mathematics amd 59chool Mathematics.
+Cambridge: Cambridge University Press.
+
+Porter T. 1995，Tyust 训 Naumzbers: The Pursuit of Objectiuity 训 Science anad Public 工F.
+Princeton, NJ: Princeton University Press.
+
+Robson 局. 2008. Mathematics 各 4mcient Jrag: 4 Social 于story Princeton, NJ: Princeton
+University Press.
+
+Schmandt-Besserat D. 1992.， 有om Counting to Cunezform.， Austin，TX: University of
+Texas Press.
+
+Urton G. 1997. The Social Life of Numbers: 4 Quechaua Onmntology of Numbers amd Philos-
+opjhy of 4mithrmetic. Austin，TX: University of Texas Press.
+
+VIIIL.5 数学: 一门实验科学
+
+Herbert S. Wilf
+1. 数学家的望远镜
+
+爱因斯坦曾经说过,“你可以用实验来验证一个理论, 但是没有路径可以把你
+从实验引向理论”. 但是这话是在计算机出现以前说的. 在现在的数学研究中, 确有
+一条很清楚的这样的路径, 它在开始时是详细地思考特例是什么样的; 接下来就选
+择问题中参数的很小的值, 并且用计算机实验来表明这个特殊情况的构造. 下面就
+是人的工作了: 数学家注视着计算机的输出, 想要看出某种模式, 并且把它编成法
+则. 如果这样做真有成果, 最后一步就需要数学家来证明, 真正存在着我们看出来
+的模式, 它并不是沙漠里闪烁不定的海市厦楼.
+
+纯粹数学家应用计算机很像理论天文学家应用望远镜, 它告诉我们“那里有什
+么”. 计算机和望远镜都不能提供给我们所见到的东西的理论解释, 但是都能提供
+给我们没有它们本来是隐藏着的东西, 这样大大扩展我们的心智范围, 而从这些隐
+藏着的东西就有机会先是看出继而证明出模式或普遍规律的存在.
+
+我在本文中打算用一些例子告诉您这个过程运作的情况. 很自然, 我们将要集
+中于多少取得了成功的例子, 而不是告诉您多得多的、看不出来至少是我看不成果
+来但是有模式存在的例子. 因为我的工作主要是在组合学和离散数学方面, 焦点自
+
+
+===== [PDF p1657] =====
+VIIIL.6 ”对青年数学家的建议                                                           .519 .
+
+ 
+
+Bailey D H, Borwein P, and Plouffe S. 1997. On the rapid computation of various polylog-
+arithmic constants， Mathematics of Computation，66:903-13.
+
+Borwein J, and Bailey D 也. 2003. Mathematics by Erzperiment: 已ausible 已easoning 训 太e
+215 Century Wellesley, MA: A. K. Peters.
+
+Borwein J, Bailey D H, and Gergensohn R. 2004. 忆zperimentation im Mathematcs: Com-
+Putational Paths to Discovery， Wellesley, MA: A. 天. Peters.
+
+Calkin N, and Wilf H S. 2000. Recounting the rationals. 4mmericamn Mathematical Month1y，
+197:390-463.
+
+Ferguson 也 R P, and Forcade R W. 1979.， Generalization of Euclidean algorithm for real
+numbers to all dimensions higher than two， Bulietin of 态e 47nericam Mathematical
+9ociet，1:912-914.
+
+Gessel I. 1990. Symmetric functions and P-recursiveness. .Jourmal of Combinzatorial Theory
+A, 53:257-285.
+
+Graham R 直, Knuth D 再, and Patashnik O. 1989. Comcrete Mathematics. Reading， MA:
+Addison-Wesley-.
+
+Greene C, and Wilf M 8$. 2007. Closed form summation of C-finite sequences.， 7Tyamsactioms
+of 妇e 4merican Mathematical 9ocie怒359:1161-1189.
+
+Lenstra A 氏，Lenstra 百 W Jr.，and Lovgsz 工. 1982.Factoring polynomial with rational
+coe竺cients，Mathematische 4mnmalen， 261(4): 515-534.
+
+Mackey B D，Oggier F 也，Royle G F, Sloane N J A，Wanless I M, and Wilf 也 S. 2004.
+Acyclic digraphs and eigenvalues of (0,1)-matrices， ,Journal of 1mteger Seqguences，7:
+04.3.3.
+
+Mills W 吾, Robbins D P, and Rumsey 再 Jr， 1987. Enumeration of a symmetry class of
+Plane partition， Discrete Mathematics，67:43-55.
+
+Petkovsek M, and Wilf 了 S. 1996. A high-tech proof of the Mills-Robbins-Rumsey deter-
+minant formula， Electromnic ,Journal of Combinatorics，3:R19.
+
+Petkovsek M，Wilf 了 S, and Zeilberger D. 1996. 4 = 妃. Wellesley, MA: A. K. Peters.
+
+Wilf 了 $S. 1992， Ascending subsequences and the shapes of Young tableaux. Jourmnal of
+Combimatorial Theory， A60:155-157.
+
+一一，1994，Generatingjfunctionology，2nd edn，New York: Academic Press (this can be
+downloaded at no charge fron author's Web site).
+
+VIII.6 ”对青年数学家的建议
+
+青年数学家最需要学习的当然是数学, 但是学习其他数学家的经验也是很有价
+值的. 我们要求本文的五位作者利用他们自己的数学生活和经验, 提出一些他们在
+

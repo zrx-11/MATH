@@ -1,0 +1,179 @@
+
+
+===== [PDF p545] =====
+第IV 部分“数学的各个分支
+
+IV.1 代 数 数
+
+Barry Mazur
+
+这个分支的根可以追溯到古希腊, 它的枝叶却触及现代数学几乎所有的方面.
+如果真有所谓“黄基性的著作”, 那么, 对于数论的现代态度的起源, 这就要算是最
+初在 1801 年问世的高斯[VI.26] 的《数论研究》( Disguisitiones 4rithmeticae) 这部
+书. 当代研究中许多尚未达到的目的都已经可以在高斯的著作里见到, 至少是出现
+了胚胎形式.
+
+本文的意图就是给有志于学习和思索代数数经典理论的某些方面的读者提供
+一个指南. 想要懂得代数数理论的很大一部分, 想要领略它的美, 都只需要最少限
+度的理论背景. 对于每一位打算踏上这条旅程的读者, 我建议在自己的背包里带上
+高斯的《数论研究》, 以及 Davenport 的 TjPe 丽gjher 4rithmetics (1992), 后一本书
+可以说是讲解这门学科的珍宝, 它对于黄基性的思想的讲解既清楚又深入, 而且几
+乎没有用到高中以外的数学知识.
+
+1. 2 的平方根
+
+代数数和代数整数的研究是从通常的有理数和整数的研究开始的, 而又经常要
+回溯到对它们的研究. 第一批代数无理性开始并不是作为数出现的, 而是作为对几
+何问题的障碍出现的.
+
+正方形的对角线和边长的比不能表示为整数之比, 传说是早期的毕达哥拉斯
+学派的一桩心病. 但是正是这个比, 平方以后却是 2 : 1, 所以我们可以代数地对待
+它 一一而后来的数学家们确实这样做了. 我们可以把这个比当作一个没有什么内
+容的密码, 而我们所知的仅仅是:“它的平方等于 2”(这也就是后来的数学家克罗内
+克[VIL.48] 对于代数数的观点, 这一点下面还会看到)，可以用种种不同的方式来写
+出 V2, 例如
+
+V2= 11一让.             ()
+
+我们还会想到 1 -i= 1一e2xi/+, 因此它是最早的三角和, 在下面会看到这一点对于
+二次根式 (surd) 的推广. 也可以把 V2 看成是各种无限序列的极限, 其中之一是由
+
+
+===== [PDF p658] =====
+- 114 .                                               第IV 部分“数学的各个分支
+
+ 
+
+这个问题迄今仍未解决, 而我并不认为现在对其答案将是“是”或“否”已经
+有了很强的共识 这个问题的世界纪录现在是由曲线
+
+妇= 378371071z2 (z2 一 9) 一 229833600 (z2 一 1)
+
+保持的, 它是凯勒和 Kulesz 造出来的, 上面有 588 个有理点.
+
+人们对于上面的问题有兴趣, 是因为它与 Lang(Serge Lang, 1927-2005, 法国裔
+美国数学家) 的猜想有关系, 这个猜想涉及的是高维和能的点，Caporaso,， Harris 和
+Mazur 证明了 Lang 的猜想蕴含了对上面的问题的正面回答. 这就自然地建议人们
+去攻克以下的猜想: 如果有办法作出 6 次多项式 f (z) 的无穷序列, 而且使方程
+= j(z) 的有理解的个数越来越多, 就能够否证 Lang 的猜想! 这项工作谁都还没
+有做成功. 如果能够证明这个问题的答案是肯定的, 就能够支持我们关于 Lang 的
+猜想成立的信念, 当然这还不能使我们更接近于把这个猜想变成一个定理.
+
+本文对于算术几何的现代理论知识只是窥其一斑. 也许我是过分强调了数学家
+在这方面的成功, 其代价是忽略了大得多的领域里的问题, 例如上面说的 Lang 的
+猜想. 对于它, 我们还是完全无知的.在数学历史的这个阶段, 我们可以有信心地
+说, 与丢番图问题有关的概型是有几何的. 余下的是要尽可能多地说明这个几何是
+什么样的, 而在这一方面, 尽管有了上面说到的进展, 我们的了解比起我们对于更
+加经典的几何的知识来, 情况还是不能令人满意的.
+
+进一步阅读的文献
+Dieudonne J. 1985.， Frzstory of 41gebraic Ceometry、 Monterey，CA: Wadsworth .
+Silverman J, and Tate J. 1992. Ratiomal Points om 已1iptc Curuves. New York: Springer.
+
+IV.6 代数拓扑
+
+Burt Totaro
+引言
+拓扑学关心的是几何图形在连续变形下不变的性质. 用比较技术性的语言来
+说就是: 拓扑学试图对拓扑空间[II.90] 进行分类, 而把两个同胚的拓扑空间视为
+相同的空间. 代数拓扑则对拓扑空间赋给一些数, 这些数可以想象成是这个空间中
+“洞的数目”. 可以用这些洞来证明两个拓扑空间并不同胚: 如果它们有不同数目的
+某一种洞, 则其中的一个就不能连续地变形为另一个.
+拓扑学是一个相对比较新的数学分支, 它起源于 19 世纪. 在那以前, 数学通常
+是力求确切地解决各种问题: 解一个方程、计算一个落体的路径、计算骨子博弈导
+致破产的概率等等. 随着数学问题越来越复杂, 就看清楚了, 绝大多数问题永远不
+
+
+===== [PDF p971] =====
+IV.20 计算复杂性                                                                      “427 .
+
+另一个有趣的新近的发展是四色定理[V12] 的证明开了一个头: 计算机辅助证
+明在组合学中出现得越来越多了. 怎样把这些证明融入这个领域、而又不至于伤害
+它的特殊的魅力和诉求还是一个进一步的挑战.
+
+组合学的这些挑战、组合学这个领域作为数学的基本分支的本性、它与其他学
+科的紧密联系和它的许多诱人的未解决的问题, 保证了组合学在数学和科学未来的
+总的发展中会起本质的作用.
+
+ 进一步阅读的文献
+Alon N, and Spencer J H. 2000. The Probabzlistic Method， 2n"d edn. New York: John Wiley.
+Bollobas B. 1978.， Prtremal Craphn Theory. New York: Academic Press.
+
+Graham 及工, Grotschel M, Lovasz L, eds. 1995. 矶andbook of Combinatorics. Amsterdam:
+North-Holland.
+
+Graham R L, Rothschild B L, and Spencer J C. 1990. Ramnsey Theory， 2"d edn. New York:
+John Wiley.
+
+Janson S, czak T, and Ruciftski A. 2000. Random Graphs. New York: John Wiley.
+Jukna S. 2001. Exztremal Combimatorics. New York: Springer.
+Matousek J. 2002. Zectures om Discrete Geometry. New York: Springer.
+
+Nathanson M. 1996.， 4dditive Number Theory: Tmuerse Theorems and 妇e Geometry of
+
+usets， New York: Springer.
+Pach J, and Agarwal P. 1995. Combimatorial Geometry. New York: John Wiley-.
+
+Tao T (陶哲轩)，and Vu V H. 2006.， 4dditiue Combinatorics。 Cambridge: Cambridge
+
+University Press.
+
+IV.20 计算复杂性
+Oded Goldreich and Avi Wigderson
+
+1. 算法和计算
+
+本文讲的是哪些东西可以有效率地算出来, 而哪些则不行. 我们要介绍几个重
+要的概念和研究领域, 例如计算的形式模型有效性的量度、P 对 NMP 问题、NMP
+完全性、环路的复杂性、证明的复杂性、随机化的计算、伪随机性、概率证明系统、
+密码学, 还有其他. 所有这些问题的背后都出现了两个相关联的概念: 算法和计算，
+所以我们就从讨论这两个概念开始.
+
+
+===== [PDF p1084] =====
+. 540 .                                                          第 IV 部分 “数学的各个分支
+
+ 
+
+边的概率当 N -= 时趋近 了 把这一点观察与我们的定理结合起来,就可以导
+出:“两个顶点可以用边连接起来, 与不能用边连接起来的情况是一样多的”这样
+一个性质不能用 C 中的一阶公式来表示. 这是一个纯粹句法的性质, 但是它的证
+明却要本质地用到模型论.
+进一步阅读的文献
+
+Schoenfield (2001) 是逻辑学的出色的入门书, 其中包含了完全性和不完全性定理、基本
+的可计算性理论和初等的模型论.
+
+这里举的例子只是稍微展现了现代模型论的味道. Hodge (1993),， Marker (2002)，Poizat
+(2000) 是全面的导引. Marker et al (1995) 一书中包含了关于域的模型论的好几篇介绍文章.
+
+除了提供分析特定领域中的可定义性所需的工具以外,模型论的主要目的就是要证明很
+大类别的数学结构的结构定理. Shelah 关于相关性的概念推广了向量空间的线性相关性和域
+的代数相关性, 这是一个关键性的发展. 模型论专家在 Hrushovski 和 Zilber 的带领下研究了
+相关性的几何学, 而且发现时常可以用它来侦察出隐藏着的代数结构.
+
+近年来, 模型论在经典数学中也找到了有趣的应用，Hrushovski 应用了这些思想给出了
+丢番图几何中函数域的 Mordell-Lang 猜想的一个模型论证明. Bouscaren (1998) 是引导到
+Hrushovski 证明的一本出色的综述论文集.
+
+Bouscaren 也，ed.，1998.，Model Theory and 4lgebraic Geometry，4m 1pntroduction to 已
+rushovski s Proof of 轨e Ceometric Mordeli-Zang Comyecture. New York: Springer.
+Hodge W. 1993. Model Theory. Encyclopedia of Mathematics and Its Applications, volume
+
+42. Cambridge: Cambridge University Press.
+Marker D. 2002. Model Theory: 4m Tmntroduction. New York: Springer.
+Marker D, Messmer M, Pillay A. 1995.， Model Theory of Fields. New York: Springer.
+Poizat B. 2000. 4 Course 识 Model Theory. 4m 1mtroduction to Comntemporary Mathematical
+7ogic. New York: Springer.
+Schoenfield J. 2001.， Mathematical Logic. Matick，MA: A. K. Peters.
+
+IV.24 随机过程
+
+Jean Francois Le Gall
+1. 历史的引言
+
+随机过程是现代概率论的主要主题之一. 粗略地说, 随机过程就是描述随机现
+象随着时间进展的数学模型. 本文将要集中就一个最重要的例子 一一 布朗运动来
+介绍和解说随机过程理论的基本思想. 我们从一个简短的历史引言开始, 以提出下
+面数学理论的某些动机.
+
